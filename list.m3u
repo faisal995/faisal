@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png", MBC 1 HD
+http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
 #EXTINF:-1,beIN_Sports_News
 http://rmd.primatv.club:8899/live/tvprima10/primaiptv11/22.m3u8|User-Agent=PrimaIPTV&.ts
 #EXTINF:-1,BeIN-SPORTS-Global
