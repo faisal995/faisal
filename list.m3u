@@ -6,50 +6,50 @@
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/22.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,BeIN SPORTS Global
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/21.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS 1HD.LOCAL
+#EXTINF:-1,beINSPORTS 1HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/1.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-2HD.LOCAL
+#EXTINF:-1,beINSPORTS 2HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/3.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-3HD.LOCAL
+#EXTINF:-1,beINSPORTS 3HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/5.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-4HD.LOCAL
+#EXTINF:-1,beINSPORTS 4HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/7.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-5HD.LOCAL
+#EXTINF:-1,beINSPORTS 5HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/9.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-6HD.LOCAL
+#EXTINF:-1,beINSPORTS 6HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/11.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-7HD.LOCAL
+#EXTINF:-1,beINSPORTS 7HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/13.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-8HD.LOCAL
+#EXTINF:-1,beINSPORTS 8HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/15.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-9HD.LOCAL
+#EXTINF:-1,beINSPORTS 9HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/17.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-10HD.LOCAL
+#EXTINF:-1,beINSPORTS 10HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/19.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beIN-SPORTS-11HD-A
+#EXTINF:-1,beIN-SPORTS 11HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/23.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beIN-SPORTS-12HD-A
+#EXTINF:-1,beIN-SPORTS 12HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/24.ts|User-Agent=PrimaIPTV(2)&.ts
 
-#EXTINF:-1,beINSPORTS-1HD.BACKUP
+#EXTINF:-1,beINSPORTS 1HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/2.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-2HD.BACKUP
+#EXTINF:-1,beINSPORTS 2HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/4.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-3HD.BACKUP
+#EXTINF:-1,beINSPORTS 3HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/6.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-4HD.BACKUP
+#EXTINF:-1,beINSPORTS 4HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/8.ts|User-Agent=PrimaIPTV(2)&.t
-#EXTINF:-1,beINSPORTS-5HD.BACKUP
+#EXTINF:-1,beINSPORTS 5HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/10.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-6HD.BACKUP
+#EXTINF:-1,beINSPORTS 6HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/12.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-7HD.BACKUP
+#EXTINF:-1,beINSPORTS 7HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/14.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-8HD.BACKUP
+#EXTINF:-1,beINSPORTS 8HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/16.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-9HD.BACKUP
+#EXTINF:-1,beINSPORTS 9HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/18.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS-10HD.BACKUP
+#EXTINF:-1,beINSPORTS 10HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/20.ts|User-Agent=PrimaIPTV(2)&.ts
 
 #EXTINF:-1,SFR-Sport-1-HD-France
