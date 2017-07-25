@@ -141,7 +141,7 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/287.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/305.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,OSN Ondemend Extra HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/306.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png”,OSN Yahala HD.
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png" ,OSN Yahala HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/301.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,OSN Yahala Cinema HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/304.ts|User-Agent=PrimaIPTV(2)&.ts
