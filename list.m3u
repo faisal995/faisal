@@ -92,7 +92,7 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/44.ts|User-Agent=PrimaIPTV(2)
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/45.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,Abu.Dhabi.Sports-6HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/46.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,Bein Movies 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/BeIN_MOVIES-HD.png",Bein Movies 1 HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/307.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,Bein Movies 2 HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/308.ts|User-Agent=PrimaIPTV(2)&.ts
@@ -322,7 +322,7 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/406.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/405.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC 1
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/260.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 1 HD
+#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png" ,MBC 1 HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/261.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC 2.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/282.ts|User-Agent=PrimaIPTV(2)&.ts
