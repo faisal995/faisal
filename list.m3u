@@ -111,6 +111,8 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/312.ts|User-Agent=PrimaIPTV(2
 #EXTINF:-1 ,Bein-FOX-ACTION
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/313.ts|User-Agent=PrimaIPTV(2)&.ts
 
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png", OSN CHANNELS 
+***********
 #EXTINF:-1 ,OSN Cinema 1HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/299.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,OSN Cinema 2HD.
@@ -141,7 +143,7 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/287.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/305.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,OSN Ondemend Extra HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/306.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/hires/oo/osn_ya_hala_hd.png" ,OSN Yahala HD.
+#EXTINF:-1  tvg-logo="http://store1.up-00.com/2016-07/1467665722151.png" ,OSN Yahala HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/301.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,OSN Yahala Cinema HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/304.ts|User-Agent=PrimaIPTV(2)&.ts
