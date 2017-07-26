@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/20/20150420081524%21Bein_sport_logo.png/120px-Bein_sport_logo.png”, BeIN SPORT
+#EXTINF:-1 tvg-logo=“http://4.bp.blogspot.com/-90PMLwca1yU/VMViHv3RF0I/AAAAAAAAAS0/HOcR2abpmkY/s1600/mzl.vrgftcau.png”, BeIN SPORT
 ***********
-#EXTINF:-1,VIP:beINSports 1 HD
-http://srvbox.iptvpro.org/live/Box_New@srvt.ts/@$m$125a!lerwW1541002@/1832.ts|User-Agent=#BoX@dash+&.ts
 #EXTINF:-1,beIN Sports News
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/22.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,BeIN SPORTS Global
@@ -54,39 +52,53 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/18.ts|User-Agent=PrimaIPTV(2)
 #EXTINF:-1,beINSPORTS 10HD BACKUP
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/20.ts|User-Agent=PrimaIPTV(2)&.ts
 
-#EXTINF:-1,SFR-Sport-1-HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/25.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,SFR-Sport-2-HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/26.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,SFR-Sport-3-HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/27.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Sport 1HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/28.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Sport 1HD-Fr-B
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/29.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Sport 2HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/30.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Sport 2HD-Fr-B
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/31.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Sport 3HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/32.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Sport 3HD-Fr-B
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/33.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 04HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/34.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 05HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/35.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 06HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/36.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 07HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/37.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 08HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/38.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 09HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/39.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,Bein Max 10HD-France
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/40.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 1
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/260.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png" ,MBC 1 HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/261.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 2.
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/282.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 2 HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/262.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 3
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/263.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 3 HD.
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/285.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 4
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/264.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC 4 HD.
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/284.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC MASR 1
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/269.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC MASR 2.
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/283.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC DRAMA
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/268.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC DRAMA-HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/266.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC-VARIETY-HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/270.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC ACTION
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/265.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC MAX
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/267.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC ZEE Aflam
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/272.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC ZEE Alwan
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC BOLLYWOOD.
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/286.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC B4U AFLAM
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/273.ts|User-Agent=PrimaIPTV(2)&.ts
 
+#EXTINF:-1 ,MBC-SPORT-1HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/276.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC-SPORT-3HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/274.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC-SPORT-2HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/275.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,MBC PRO SPORT 4 HD
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/277.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,Abu.Dhabi.Sports-1HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/41.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,Abu.Dhabi.Sports-2HD
@@ -175,53 +187,6 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/256.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/258.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,Art Hekayat 2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/259.ts|User-Agent=PrimaIPTV(2)&.ts
-
-#EXTINF:-1 ,MBC 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/260.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png" ,MBC 1 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/261.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 2.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/282.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 2 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/262.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 3
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/263.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 3 HD.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/285.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 4
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/264.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC 4 HD.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/284.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC MASR 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/269.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC MASR 2.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/283.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC DRAMA
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/268.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC DRAMA-HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/266.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC-VARIETY-HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/270.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC ACTION
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/265.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC MAX
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/267.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/272.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC BOLLYWOOD.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/286.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC B4U AFLAM
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/273.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC-SPORT-1HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/276.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC-SPORT-3HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/274.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC-SPORT-2HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/275.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC PRO SPORT 4 HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/277.ts|User-Agent=PrimaIPTV(2)&.ts
 
 #EXTINF:-1, Tele-Maroc
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/384.ts|User-Agent=PrimaIPTV(2)&.ts
@@ -621,3 +586,36 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/407.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/406.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1, ITELE
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/405.ts|User-Agent=PrimaIPTV(2)&.ts
+
+#EXTINF:-1,SFR-Sport-1-HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/25.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,SFR-Sport-2-HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/26.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,SFR-Sport-3-HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/27.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Sport 1HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/28.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Sport 1HD-Fr-B
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/29.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Sport 2HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/30.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Sport 2HD-Fr-B
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/31.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Sport 3HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/32.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Sport 3HD-Fr-B
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/33.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 04HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/34.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 05HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/35.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 06HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/36.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 07HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/37.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 08HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/38.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 09HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/39.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1,Bein Max 10HD-France
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/40.ts|User-Agent=PrimaIPTV(2)&.ts
