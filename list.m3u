@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/20/20150420081524%21Bein_sport_logo.png/120px-Bein_sport_logo.png”, BEIN SPORT
+#EXTINF:-1 tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/20/20150420081524%21Bein_sport_logo.png/120px-Bein_sport_logo.png”, BeIN SPORT
 ***********
+#EXTINF:-1,VIP:beINSports 1 HD
+http://srvbox.iptvpro.org/live/Box_New@srvt.ts/@$m$125a!lerwW1541002@/1832.ts|User-Agent=+BoX@dash#&.ts
 #EXTINF:-1,beIN Sports News
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/22.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,BeIN SPORTS Global
