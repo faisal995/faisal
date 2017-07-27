@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/20/20150420081524%21Bein_sport_logo.png/120px-Bein_sport_logo.png", BeIN SPORT
 ***********
-#EXTINF:-1,beIN Sports News
+#EXTINF:-1tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/498%5EbeIN-SportsNews.png", beIN Sports News
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/22.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,BeIN SPORTS Global
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/21.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS 1HD
+#EXTINF:-1tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/358%5EbeIN-Sports-HD1.png", beINSPORTS 1HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/1.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,beINSPORTS 2HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/3.ts|User-Agent=PrimaIPTV(2)&.ts
