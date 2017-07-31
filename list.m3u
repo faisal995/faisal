@@ -14,9 +14,9 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/3.ts|User-Agent=PrimaIPTV(2)&
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/5.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo= "http://tvdode.com/files/lives/9a60982d90b122a89a87dee59485110e.png",beINSPORTS 4HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/7.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS 5HD
+#EXTINF:-1 tvg-logo= "https://epg.beinsports.com/mena_sports/HD5.svg" , beINSPORTS 5HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/9.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1,beINSPORTS 6HD
+#EXTINF:-1 tvg-logo= "https://epg.beinsports.com/mena_sports/HD6.svg" , beINSPORTS 6HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/11.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1,beINSPORTS 7HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/13.ts|User-Agent=PrimaIPTV(2)&.ts
