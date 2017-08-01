@@ -4,13 +4,13 @@
 ***********
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/498%5EbeIN-SportsNews.png", beIN Sports News
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/22.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/92%5EbeIN-SPORTS.png",BeIN SPORTS Global
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/92%5EbeIN-SPORTS.png", BeIN SPORTS Global
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/21.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/358%5EbeIN-Sports-HD1.png", beINSPORTS 1HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/1.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/373%5EbeIN-Sports-HD2.png", beINSPORTS 2HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/3.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD3.png",beINSPORTS 3HD
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD3.png", beINSPORTS 3HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/5.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD4.png",beINSPORTS 4HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/7.ts|User-Agent=PrimaIPTV(2)&.ts
@@ -18,11 +18,11 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/7.ts|User-Agent=PrimaIPTV(2)&
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/9.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD6.png" , beINSPORTS 6HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/11.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD7.png",beINSPORTS 7HD
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD7.png", beINSPORTS 7HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/13.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD8.png",beINSPORTS 8HD
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD8.png", beINSPORTS 8HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/15.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD9.png",beINSPORTS 9HD
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD9.png", beINSPORTS 9HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/17.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/436%5EbeIN-Sports-HD10.png",beINSPORTS 10HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/19.ts|User-Agent=PrimaIPTV(2)&.ts
@@ -52,6 +52,8 @@ http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/98.ts|User-Agent=rehto&.
 #EXTINF:-1 tvg-logo= "https://f.top4top.net/p_577lek6t10.png",beINSPORTS 10HD BACKUP
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/99.ts|User-Agent=rehto&.ts
 
+#EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png", MBC CHANNELS 
+***********
 #EXTINF:-1 ,MBC 1
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/260.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png" ,MBC 1 HD
@@ -68,27 +70,25 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/285.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/264.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC 4 HD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/284.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC MASR 1
+#EXTINF:-1 tvg-logo= "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png" , MBC MASR 1
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/269.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC MASR 2.
+#EXTINF:-1 tvg-logo= "https://www.e3lam.org/wp-content/uploads/2015/03/mbc-masr-2.png" , MBC MASR 2.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/283.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC DRAMA
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/268.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC DRAMA-HD
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/266.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC-VARIETY-HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/270.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC ACTION
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/265.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC MAX
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/267.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC ZEE Aflam
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/272.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC ZEE Alwan
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,MBC BOLLYWOOD.
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/286.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1 ,MBC B4U AFLAM
+#EXTINF:-1 , ZEE Aflam
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/272.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 , ZEE Alwan
+http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=PrimaIPTV(2)&.ts
+#EXTINF:-1 ,B4U AFLAM
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/273.ts|User-Agent=PrimaIPTV(2)&.ts
 
 #EXTINF:-1 ,MBC-SPORT-1HD
@@ -420,172 +420,6 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/336.ts|User-Agent=PrimaIPTV(2
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/332.ts|User-Agent=PrimaIPTV(2)&.ts
 #EXTINF:-1 ,Al Ekhbariya
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/337.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, TF1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/470.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, M6
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/471.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FRANCE O
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/472.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FRANCE 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/473.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FRANCE 3
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/474.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FRANCE 4
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/475.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FRANCE 5
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/476.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ACTION
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/450.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/455.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL CINEMA
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/454.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL SERIES
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/451.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL FAMILY
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/452.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL DECALE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/453.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, COMEDIE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/464.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE PREMIER
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/456.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE FRISSON
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/459.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE EMOTION
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/461.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE CLASSIC
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/463.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE POLAR
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/457.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE CLUB
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/462.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE FAMIZ
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/460.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CINE FX
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/458.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, OCS CHOC
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/468.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, OCS GEANT
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/466.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, OCS MAX
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/465.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, OCS CITY
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/467.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, TCM CINEMA
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/469.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL PLAY 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/394.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL PLAY 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/395.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL PLAY 3
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/396.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL PLAY 4
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/397.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL PLAY 5
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/398.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ALACARTE 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/399.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ALACARTE 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/400.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ALACARTE 3
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/401.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ALACARTE 4
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/402.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ALACARTE 5
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/403.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ANIMAUX
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/439.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, DISCOVRY
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/437.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, DISCOVRY-SCI
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/438.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, NAT-GEO-WILD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/436.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, NATIONAL-GEO
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/435.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, PLANETE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/446.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, PLANETE-CI
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/444.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, PLANETE-AE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/445.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, RMC DECOUVERTE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/447.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, SCIENCE VIE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/448.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, SEASON
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/443.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, TOUT LHISTOIRE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/449.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, TREK
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/442.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, USHUAIA TV
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/440.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CHASSE PECHE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/441.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, TIJI
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/423.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, BOING
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/424.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, BOOMERANG.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/434.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL J
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/421.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, DISNEY CHANNEL
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/432.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, DISNEY CINEMA
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/431.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, DISNEY JUNIOR
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/430.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, DISNEY XD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/429.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, GULLI
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/428.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, MANGAS
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/427.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, NICKELODEON
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/426.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, NICKELODEON JUNIOR
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/425.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, PIWI
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/418.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, TELETOON
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/419.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ZOUZOUS
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/422.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CARTON NET
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/420.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, CANAL SPORT
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/408.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, EQUIDAI LIVE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/415.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, EUROSPORT 1
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/412.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, EUROSPORT 2
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/413.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FOOT 24
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/409.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, GOLF
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/414.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, INFOSPORT
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/410.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, L'EQUIPE 21
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/411.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, OL TV
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/417.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, OM TV
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/416.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, FRANCE 24
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/404.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, EURONEWS.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/433.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, LCI
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/407.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, BFM
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/406.ts|User-Agent=PrimaIPTV(2)&.ts
-#EXTINF:-1, ITELE
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/405.ts|User-Agent=PrimaIPTV(2)&.ts
 
 #EXTINF:-1,SFR-Sport-1-HD-France
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/25.ts|User-Agent=PrimaIPTV(2)&.ts
