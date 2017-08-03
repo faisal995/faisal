@@ -123,14 +123,6 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/313.ts|User-Agent=rehto&.ts
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png", OSN CHANNELS 
 ***********
-EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/48%5ECM1.png",OSN Cinema 1HD.
-
-EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/64%5ECM2.png",OSN Cinema 2HD.
-
-EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/95%5EBO1.png",OSN Officebox 1HD.
-
-EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/110%5EBO2.png",OSN Officebox 2HD.
-
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/126%5EBO3.png",OSN Officebox 3HD. work
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/382.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo=" ",OSN Movies Drama HD.
@@ -141,24 +133,22 @@ http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/366.ts|User-Agent=rehto&
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/365.ts|User-Agent=rehto&.ts
 #EXTINF:-1  tvg-logo="http://store1.up-00.com/2016-07/1467665722151.png" ,OSN Yahala HD.
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/381.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/423%5EOYC.png",OSN Yahala Cinema HD.
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/304.ts|User-Agent=rehto&.ts
 
-#EXTINF:-1,VIP_SeeVii_Al_Aoula_HD
+#EXTINF:-1,SeeVii Al Aoula HD
 http://we-you-iptv.tv:8000/live/local1/123456/4402.ts
-#EXTINF:-1,VIP_SeeVii_Beelink_HD
+#EXTINF:-1,SeeVii Beelink HD
 http://we-you-iptv.tv:8000/live/local1/123456/4401.ts
-#EXTINF:-1,VIP_SeeVii_Drama_HD
+#EXTINF:-1,VIP_SeeVii_Drama HD
 http://we-you-iptv.tv:8000/live/local1/123456/4400.ts
-#EXTINF:-1,VIP_SeeVii_Shamiya_HD
+#EXTINF:-1,SeeVii Shamiya HD
 http://we-you-iptv.tv:8000/live/local1/123456/4399.ts
-#EXTINF:-1,AR: ART AFLAM 1
+#EXTINF:-1,ART AFLAM 1
 http://we-you-iptv.tv:8000/live/local1/123456/194.ts
-#EXTINF:-1,AR: ART AFLAM 2
+#EXTINF:-1,ART AFLAM 2
 http://we-you-iptv.tv:8000/live/local1/123456/193.ts
-#EXTINF:-1,AR: ART HEKAYAT 1
+#EXTINF:-1,ART HEKAYAT 1
 http://we-you-iptv.tv:8000/live/local1/123456/191.ts
-#EXTINF:-1,AR: ART HEKAYAT 2
+#EXTINF:-1, ART HEKAYAT 2
 http://we-you-iptv.tv:8000/live/local1/123456/190.ts
-#EXTINF:-1,AR: ART CINEMA
+#EXTINF:-1, ART CINEMA
 http://we-you-iptv.tv:8000/live/local1/123456/192.ts
