@@ -6,51 +6,71 @@
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/108.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/92%5EbeIN-SPORTS.png", BeIN SPORTS Global
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/21.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/358%5EbeIN-Sports-HD1.png", beINSPORTS 1HD
-http://176.31.226.149:25461/live/testest/testest/339.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/373%5EbeIN-Sports-HD2.png", beINSPORTS 2HD
-http://176.31.226.149:25461/live/testest/testest/338.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD3.png", beINSPORTS 3HD
-http://176.31.226.149:25461/live/testest/testest/337.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD4.png", beINSPORTS 4HD
-http://176.31.226.149:25461/live/testest/testest/336.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD5.png" , beINSPORTS 5HD
-http://176.31.226.149:25461/live/testest/testest/335.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD6.png" , beINSPORTS 6HD
-http://176.31.226.149:25461/live/testest/testest/334.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD7.png", beINSPORTS 7HD
-http://176.31.226.149:25461/live/testest/testest/342.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD8.png", beINSPORTS 8HD
-http://176.31.226.149:25461/live/testest/testest/341.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD9.png", beINSPORTS 9HD
-http://176.31.226.149:25461/live/testest/testest/340.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/436%5EbeIN-Sports-HD10.png",beINSPORTS 10HD
-http://176.31.226.149:25461/live/testest/testest/345.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/436%5EbeIN-Sports-HD11.png",beIN-SPORTS 11HD
-http://176.31.226.149:25461/live/testest/testest/344.ts
-#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/452%5EbeIN-Sports-HD12.png",beIN-SPORTS 12HD
-http://176.31.226.149:25461/live/testest/testest/343.ts
-
-#EXTINF:-1 tvg-logo= "https://c.top4top.net/p_577kwiua1.png",beINSPORTS 1HD BACKUP
+#EXTINF:-1 tvg-logo= "https://c.top4top.net/p_577kwiua1.png",beINSPORTS 1HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/90.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://d.top4top.net/p_5779f4or2.png",beINSPORTS 2HD BACKUP
+#EXTINF:-1 tvg-logo= "https://d.top4top.net/p_5779f4or2.png",beINSPORTS 2HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/91.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5778emtp3.png",beINSPORTS 3HD BACKUP
+#EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5778emtp3.png",beINSPORTS 3HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/92.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://f.top4top.net/p_5778frfd4.png",beINSPORTS 4HD BACKUP
+#EXTINF:-1 tvg-logo= "https://f.top4top.net/p_5778frfd4.png",beINSPORTS 4HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/93.ts|User-Agent=rehto&.t
-#EXTINF:-1 tvg-logo= "https://a.top4top.net/p_577dlmg35.png",beINSPORTS 5HD BACKUP
+#EXTINF:-1 tvg-logo= "https://a.top4top.net/p_577dlmg35.png",beINSPORTS 5HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/94.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://b.top4top.net/p_577a9vek6.png",beINSPORTS 6HD BACKUP
+#EXTINF:-1 tvg-logo= "https://b.top4top.net/p_577a9vek6.png",beINSPORTS 6HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/95.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://c.top4top.net/p_577zti907.png",beINSPORTS 7HD BACKUP
+#EXTINF:-1 tvg-logo= "https://c.top4top.net/p_577zti907.png",beINSPORTS 7HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/96.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://d.top4top.net/p_577bdalu8.png",beINSPORTS 8HD BACKUP
+#EXTINF:-1 tvg-logo= "https://d.top4top.net/p_577bdalu8.png",beINSPORTS 8HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/97.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5770n2pq9.png",beINSPORTS 9HD BACKUP
+#EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5770n2pq9.png",beINSPORTS 9HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/98.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://f.top4top.net/p_577lek6t10.png",beINSPORTS 10HD BACKUP
+#EXTINF:-1 tvg-logo= "https://f.top4top.net/p_577lek6t10.png",beINSPORTS 10HD 
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/99.ts|User-Agent=rehto&.ts
+
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/358%5EbeIN-Sports-HD1.png", beINSPORTS 1HD backup
+http://176.31.226.149:25461/live/testest/testest/339.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/373%5EbeIN-Sports-HD2.png", beINSPORTS 2HD backup
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD3.png", beINSPORTS 3HD backup
+http://176.31.226.149:25461/live/testest/testest/337.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD4.png", beINSPORTS 4HD backup
+http://176.31.226.149:25461/live/testest/testest/336.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/389%5EbeIN-Sports-HD5.png" , beINSPORTS 5HD backup
+http://176.31.226.149:25461/live/testest/testest/335.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD6.png" , beINSPORTS 6HD backup
+http://176.31.226.149:25461/live/testest/testest/334.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/405%5EbeIN-Sports-HD7.png", beINSPORTS 7HD backup
+http://176.31.226.149:25461/live/testest/testest/342.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD8.png", beINSPORTS 8HD backup
+http://176.31.226.149:25461/live/testest/testest/341.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/420%5EbeIN-Sports-HD9.png", beINSPORTS 9HD backup
+http://176.31.226.149:25461/live/testest/testest/340.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/436%5EbeIN-Sports-HD10.png",beINSPORTS 10HD backup
+http://176.31.226.149:25461/live/testest/testest/345.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/436%5EbeIN-Sports-HD11.png",beIN-SPORTS 11HD backup
+http://176.31.226.149:25461/live/testest/testest/344.ts
+#EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/452%5EbeIN-Sports-HD12.png",beIN-SPORTS 12HD backup
+http://176.31.226.149:25461/live/testest/testest/343.ts
+#EXTINF:-1, beIN_Sports1_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/921.ts
+#EXTINF:-1, beIN_Sports2_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/920.ts
+#EXTINF:-1, beIN_Sports3_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/919.ts
+#EXTINF:-1, beIN_Sports4_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/918.ts
+#EXTINF:-1, beIN_Sports5_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/917.ts
+#EXTINF:-1, beIN_Sports6_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/916.ts
+#EXTINF:-1, beIN_Sports7_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/915.ts
+#EXTINF:-1, beIN_Sports8_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/914.ts
+#EXTINF:-1, beIN_Sports9_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/913.ts
+#EXTINF:-1, beIN_Sports10_HD+
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/912.ts
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png", MBC CHANNELS 
 ***********
@@ -93,18 +113,28 @@ http://we-you-iptv.tv:8000/live/local1/123456/131.ts
 http://we-you-iptv.tv:8000/live/local1/123456/131.ts
 #EXTINF:-1 tvg-logo=" " ,MBC PRO SPORT 4 HD (not work)
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/277.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,Abu.Dhabi.Sports-1HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/41.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,Abu.Dhabi.Sports-2HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/42.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,Abu.Dhabi.Sports-3HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/43.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,Abu.Dhabi.Sports-4HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/44.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,Abu.Dhabi.Sports-5HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/45.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,Abu.Dhabi.Sports-6HD
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/46.ts|User-Agent=rehto&.ts
+#EXTINF:-1, ABU DHABI SPORT 1
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2127.ts
+#EXTINF:-1, ABU DHABI SPORT 2
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2126.ts
+#EXTINF:-1, ABU DHABI SPORT 3
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2125.ts
+#EXTINF:-1, ABU DHABI SPORT 4
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2124.ts
+#EXTINF:-1, ABU DHABI SPORT 5
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5090.ts
+#EXTINF:-1, ALKASS1 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4528.ts
+#EXTINF:-1, ALKASS2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4527.ts
+#EXTINF:-1, ALKASS3 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4526.ts
+#EXTINF:-1, ALKASS4 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4525.ts
+#EXTINF:-1, ALKASS5 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5209.ts
+
+
 
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/14%5EbeIN-MOVIES-1.png",Bein Movies 1 HD
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/82.ts|User-Agent=rehto&.ts
@@ -116,13 +146,95 @@ http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/84.ts|User-Agent=rehto&.
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/85.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/858%5EbeIN-SERIES-1.png" ,Bein Series HD
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/86.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/157%5EFX.jpg" ,Bein-FX (not work)
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/312.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/423%5EFAMHD_Logo.jpg" ,Bein-FOX-ACTION (not work)
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/313.ts|User-Agent=rehto&.ts
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/14909712146495.png", OSN CHANNELS 
 ***********
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/95%5EBO1.png",OSN:BOXOFFICE 1
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/22.ts
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/110%5EBO2.png",OSN:BOXOFFICE 2
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/23.ts#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/126%5EBO3.png"OSN:BOXOFFICE 3
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/24.ts
+#EXTINF:-1,OSN:ON DEMAND 1 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/327.ts
+#EXTINF:-1,OSN:ON DEMAND 2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/326.ts
+#EXTINF:-1,OSN:ON DEMAND 3 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/325.ts
+#EXTINF:-1,OSN:On Demand Extra 1 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/230.ts
+#EXTINF:-1,OSN:On Demand Extra 2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/231.ts
+#EXTINF:-1,OSN:On Demand Extra 3 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/324.ts
+#EXTINF:-1,OSN:Alyoum HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2117.ts
+#EXTINF:-1,OSN:MOVIES HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5251.ts
+#EXTINF:-1,OSN:MOVIES +2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5282.ts
+#EXTINF:-1,OSN:MOVIES Action HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/33.ts
+#EXTINF:-1,OSN:MOVIES Action 2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/34.ts
+#EXTINF:-1,OSN:MOVIES COMEDY
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/29.ts
+#EXTINF:-1,OSN:MOVIES COMEDY+2
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/30.ts
+#EXTINF:-1,OSN:MOVIES DRAMA
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/28.ts
+#EXTINF:-1,OSN:MOVIES Family HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2114.ts
+#EXTINF:-1,OSN:MOVIES FESTIVAL
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/26.ts
+#EXTINF:-1,OSN:MOVIES FIRST HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4807.ts
+#EXTINF:-1,OSN:MOVIES Kids HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/31.ts
+#EXTINF:-1,OSN:MOVIES PREMIERE
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/32.ts
+#EXTINF:-1,OSN:MOVIES PREMIERE 2
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/27.ts
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/48%5ECM1.png" ,OSN:Cinema 1 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2116.ts
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/64%5ECM2.png", OSN: Cinema 2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2115.ts
+#EXTINF:-1,OSN:Outdoor
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5281.ts
+#EXTINF:-1,OSN:Series Comedy 1
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5280.ts
+#EXTINF:-1,OSN:NAT GEO HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4806.ts
+#EXTINF:-1,OSN:Nat Geo People
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/3524.ts
+#EXTINF:-1,OSN:Nat Geo Wild
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/35.ts
+#EXTINF:-1,OSN:ANIMAL PLANET HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/36.ts
+#EXTINF:-1,OSN:Discovery Channel HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2112.ts
+#EXTINF:-1,OSN:DISCOVERY SCIENCE HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2113.ts
+#EXTINF:-1,OSN:Sports 1 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2111.ts
+#EXTINF:-1,OSN:Sports 2 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2110.ts
+#EXTINF:-1,OSN:Sports 3 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2109.ts
+#EXTINF:-1,OSN:Sports 4 HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/2108.ts
+#EXTINF:-1,OSN:Star movies
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/228.ts
+#EXTINF:-1,OSN:Star world
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/229.ts
+#EXTINF:-1,OSN:YAHALA HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/232.ts
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/423%5EOYC.png",OSN:YAHALA Cinema HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/4174.ts
+#EXTINF:-1,OSN:YAHALA DRAMA HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5250.ts
+#EXTINF:-1,OSN:YAHALA SHABAB HD
+http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5249.ts
+
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/126%5EBO3.png",OSN Officebox 3HD. work
 http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/382.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo=" ",OSN Movies Drama HD.
