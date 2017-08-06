@@ -74,19 +74,19 @@ http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/912.ts
 
 #EXTINF:-1 tvg-logo="http://store6.up-00.com/2017-03/149097121425913.png", MBC CHANNELS 
 ***********
-#EXTINF:-1 tvg-logo=" " ,MBC 1
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc.png" ,MBC 1
 http://we-you-iptv.tv:8000/live/local1/123456/141.ts
 #EXTINF:-1 tvg-logo="http://www11.0zz0.com/2013/11/12/09/994347180.png" ,MBC 1 HD
 http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
-#EXTINF:-1 tvg-logo=" " ,MBC 2.
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc2.png" ,MBC 2.
 http://we-you-iptv.tv:8000/live/local1/123456/140.ts
-#EXTINF:-1 tvg-logo=" " ,MBC 2 HD
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc2.png" ,MBC 2 HD
 http://selevision9882-i.akamaihd.net/hls/live/219193/98820/1.m3u8
-#EXTINF:-1 tvg-logo=" " ,MBC 3
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png" ,MBC 3
 http://we-you-iptv.tv:8000/live/local1/123456/139.ts
-#EXTINF:-1 tvg-logo=" " ,MBC 3 HD.
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc3.png" ,MBC 3 HD.
 http://selevision9885-i.akamaihd.net/hls/live/219268/98852/1.m3u8
-#EXTINF:-1 tvg-logo=" " ,MBC 4
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc4.png" ,MBC 4
 http://we-you-iptv.tv:8000/live/local1/123456/138.ts
 #EXTINF:-1 tvg-logo= "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png" , MBC MASR 1
 http://we-you-iptv.tv:8000/live/local1/123456/134.ts
@@ -94,15 +94,15 @@ http://we-you-iptv.tv:8000/live/local1/123456/134.ts
 http://we-you-iptv.tv:8000/live/local1/123456/133.ts
 #EXTINF:-1 tvg-logo=" " ,MBC DRAMA
 http://we-you-iptv.tv:8000/live/local1/123456/135.ts
-#EXTINF:-1 tvg-logo=" " ,MBC ACTION
+#EXTINF:-1 tvg-logo="http://www.electro-tunis.tn/img/cms/mbc_action_hd2.png" ,MBC ACTION
 http://we-you-iptv.tv:8000/live/local1/123456/137.ts
 #EXTINF:-1 tvg-logo=" " ,MBC MAX
 http://we-you-iptv.tv:8000/live/local1/123456/493.ts
-#EXTINF:-1 tvg-logo=" " , ZEE Aflam
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png" , ZEE Aflam
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/272.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " , ZEE Alwan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" , ZEE Alwan
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" " ,B4U AFLAM
+#EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png" ,B4U AFLAM
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/273.ts|User-Agent=rehto&.ts
 
 #EXTINF:-1 tvg-logo=" " ,MBC SPORT 1HD
