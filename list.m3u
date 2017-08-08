@@ -9,23 +9,22 @@ http://rmd.primatv.club:8899/live/bestiptv/besttv5/21.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://c.top4top.net/p_577kwiua1.png",beINSPORTS 1HD 
 http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/90.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://d.top4top.net/p_5779f4or2.png",beINSPORTS 2HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/91.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5778emtp3.png",beINSPORTS 3HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/92.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/91.ts|User-Agent=rehto&.ts
+#EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5778emtp3.png",beINSPORTS 3HD http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/92.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://f.top4top.net/p_5778frfd4.png",beINSPORTS 4HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/93.ts|User-Agent=rehto&.t
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/93.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://a.top4top.net/p_577dlmg35.png",beINSPORTS 5HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/94.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/94.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://b.top4top.net/p_577a9vek6.png",beINSPORTS 6HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/95.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/95.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://c.top4top.net/p_577zti907.png",beINSPORTS 7HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/96.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/96.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://d.top4top.net/p_577bdalu8.png",beINSPORTS 8HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/97.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/97.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://e.top4top.net/p_5770n2pq9.png",beINSPORTS 9HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/98.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/98.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo= "https://f.top4top.net/p_577lek6t10.png",beINSPORTS 10HD 
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/99.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/99.ts|User-Agent=rehto&.ts
 
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/358%5EbeIN-Sports-HD1.png", beINSPORTS 1HD backup
 http://176.31.226.149:25461/live/testest/testest/339.ts
@@ -99,9 +98,9 @@ http://we-you-iptv.tv:8000/live/local1/123456/137.ts
 #EXTINF:-1 tvg-logo=" " ,MBC MAX
 http://we-you-iptv.tv:8000/live/local1/123456/493.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8c/Zee_Aflam.png" , ZEE Aflam
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/272.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/402.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" , ZEE Alwan
-http://rmd.primatv.club:8899/live/bestiptv/besttv5/271.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/18.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="http://www.b4uaflam.com/images/logo.png" ,B4U AFLAM
 http://rmd.primatv.club:8899/live/bestiptv/besttv5/273.ts|User-Agent=rehto&.ts
 
@@ -137,15 +136,15 @@ http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5209.ts
 
 
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/14%5EbeIN-MOVIES-1.png",Bein Movies 1 HD
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/82.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/82.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/14%5EbeIN-MOVIES-2.png" ,Bein Movies 2 HD
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/83.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/83.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/30%5EbeIN-MOVIES-3.png" ,Bein Movies 3 HD
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/84.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/84.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/30%5EbeIN-MOVIES-4.png" ,Bein Movies 4 HD
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/85.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/85.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/858%5EbeIN-SERIES-1.png" ,Bein Series HD
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/86.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/86.ts|User-Agent=rehto&.ts
 #EXTINF:-1tvg-logo="http://www.cne-eg.com/UploadFolder/logos/454%5EbeIN_GOURMET_HD_POS_RGB.png" , BeIN GROUMMET HD
 http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5084.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/61%5EAMC.png" ,BeIN AMC HD
@@ -250,22 +249,22 @@ http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5250.ts
 #EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/423%5EOYA.png",OSN:YAHALA SHABAB HD
 http://geantiptv.ddns.net:61555/live/geantsat.com-5595/27072017fggbvcruy/5249.ts
 
-#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/126%5EBO3.png",OSN Officebox 3HD. work
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/382.ts|User-Agent=rehto&.ts
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/126%5EBO3.png",OSN Officebox 3HD 
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/382.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo=" ",OSN Movies Drama HD.
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/364.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/364.ts|User-Agent=rehto&.ts
 #EXTINF:-1 tvg-logo=" ",OSN Movies Premiere.
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/366.ts|User-Agent=rehto&.ts
-#EXTINF:-1 tvg-logo=" ",OSN Movies Action HD.
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/365.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/366.ts|User-Agent=rehto&.ts
+#EXTINF:-1 tvg-logo="http://www.cne-eg.com/UploadFolder/logos/735%5E5AHD.png",OSN Movies Action HD.
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/365.ts|User-Agent=rehto&.ts
 #EXTINF:-1  tvg-logo="http://store1.up-00.com/2016-07/1467665722151.png" ,OSN Yahala HD.
-http://92.222.87.254:8000/live/zjk5FhUklgId/y7gs6fFgB0d/381.ts|User-Agent=rehto&.ts
+http://92.222.87.254:8000/live/fijlIHl8zv3/idbk67jgF/381.ts|User-Agent=rehto&.ts
 
 #EXTINF:-1 tvg-logo=" ",SeeVii Al Aoula HD
 http://we-you-iptv.tv:8000/live/local1/123456/4402.ts
 #EXTINF:-1 tvg-logo=" ",SeeVii Beelink HD
 http://we-you-iptv.tv:8000/live/local1/123456/4401.ts
-#EXTINF:-1 tvg-logo=" ",VIP_SeeVii_Drama HD
+#EXTINF:-1 tvg-logo=" ", SeeVii Drama HD
 http://we-you-iptv.tv:8000/live/local1/123456/4400.ts
 #EXTINF:-1 tvg-logo=" ",SeeVii Shamiya HD
 http://we-you-iptv.tv:8000/live/local1/123456/4399.ts
