@@ -294,13 +294,23 @@ http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@el
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts|User-Agent=FreeIPTV(1)&.ts
 #EXTINF:-1,BeINSPORTS 1 HD
 http://tv.primatv.club:8899/live/playiptv/eCoaaFgtWj/754.ts|User-Agent=iii&.ts
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 1 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-1-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 2 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-2-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 3 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-3-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 4 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-4-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 5 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-5-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 6 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-6-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 7 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-7-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 8 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-8-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 9 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-9-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts 
-#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 10 HD  http://sstvb1.vdmscdn.com/sport-bn-sport-10-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 1 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-1-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 2 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-2-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 3 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-3-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 4 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-4-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 5 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-5-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 6 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-6-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 7 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-7-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 8 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-8-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 9 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-9-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
+#EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 10 HD  
+http://sstvb1.vdmscdn.com/sport-bn-sport-10-sd/tracks-v1a1/index.m3u8?User-Agent=ONLINETVCLIENT_X60000_X25000_X4000MEGA_V1.9.00&.ts
