@@ -290,3 +290,5 @@ http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@el
 http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../712.ts|User-Agent=+BoX@dash#&.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BeinSport 3 HD" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",BeinSport 3 HD
 http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../32.t|User-Agent=+BoX@dash#&.ts
+#EXTINF:-1,BeINSPORTS 1 HD
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts|User-Agent=FreeIPTV(1)&.ts
