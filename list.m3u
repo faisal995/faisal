@@ -281,12 +281,12 @@ http://we-you-iptv.tv:8000/live/local1/123456/192.ts
 #EXTINF:-1 tvg-logo=" ", bein test
 *************************
 #EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3 HD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 3 HD
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/750.ts|User-Agent=FreeIPTV(1)
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/750.ts|User-Agent=FreeIPTV(1)&.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BeINSPORTS 3 SD" tvg-logo="" group-title="02- beIN SPORTS",BeINSPORTS 3 SD
-http://tv.primatv.club:8899/live/prima10simo2/freetv2/749.ts|User-Agent=FreeIPTV(1)
+http://tv.primatv.club:8899/live/prima10simo2/freetv2/749.ts|User-Agent=FreeIPTV(1)&.ts
 #EXTINF:-1 tvg-ID="" tvg-name="VIP:beINSports 3 HD" tvg-logo="" group-title="Bein Gold",VIP:beINSports 3 HD
-http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../1835.ts|User-Agent=+BoX@dash#
+http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../1835.ts|User-Agent=+BoX@dash#&.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sport HD 3" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",Bein Sport HD 3
-http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../712.ts|User-Agent=+BoX@dash#
+http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../712.ts|User-Agent=+BoX@dash#&.ts
 #EXTINF:-1 tvg-ID="" tvg-name="BeinSport 3 HD" tvg-logo="https://topx1.com/logos/bein_sport_3.jpg" group-title="Beinsports",BeinSport 3 HD
-http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../32.t|User-Agent=+BoX@dash#
+http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@eli...../I._$.......@....!kOlI........@eli...../32.t|User-Agent=+BoX@dash#&.ts
