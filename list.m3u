@@ -294,3 +294,5 @@ http://srvbox.iptvpro.org/live/BoxTV_New..._$.......$$@....!k@O..llII........@el
 http://tv.primatv.club:8899/live/prima10simo2/freetv2/754.ts|User-Agent=FreeIPTV(1)&.ts
 #EXTINF:-1,BeINSPORTS 1 HD
 http://tv.primatv.club:8899/live/playiptv/eCoaaFgtWj/754.ts|User-Agent=iii&.ts
+#EXTINF:-1 tvg-ID="" tvg-name="bein 3" tvg-logo="" group-title="",bein 3
+http://92.222.87.254:8000/live/fdfrfr7HfIldhzz8u/cder9HGsIswsNjYI/92.ts|user-agent=Lavf/56.15.102&.ts
