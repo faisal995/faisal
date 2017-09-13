@@ -278,6 +278,9 @@ http://we-you-iptv.tv:8000/live/local1/123456/191.ts
 http://we-you-iptv.tv:8000/live/local1/123456/190.ts
 #EXTINF:-1 tvg-logo=" ", ART CINEMA
 http://we-you-iptv.tv:8000/live/local1/123456/192.ts
+#EXTINF:-1 tvg-logo=" ", mbc 1 live
+http://srvbox.iptvpro.org/live/Box_New@srvt.ts.._New$$/$@$m$125a!lerwW1541002Box_New@srvt.ts.._New$$@/1450.ts|User-Agent=+BoX@dash#
+
 #EXTINF:-1 tvg-logo=" ", bein test
 *************************
 #EXTINF:-1 tvg-logo="" group-title="Bein Online", BeinSports 1 HD  
