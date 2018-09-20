@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo= "http://37.216.204.6:8080/BidiMWAdmin/resources/ChannelLogos/channellogo_5.png", SBC
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/index.m3u8
 
+#EXTINF:-1 tvg-logo= "", dawri plus 1
+https://dawriplus-streamsd.akamaized.net/hls/live/696283/DPS6TWNXITD200918/stream5/exp=1537548280~acl=%2f*~data=hdntl~hmac=daeae00086ae1667191778ba8cb5b5a53fcf51d3a5f8ab664ee001e92706a7a0/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/20/20150420081524%21Bein_sport_logo.png/120px-Bein_sport_logo.png", BeIN SPORT
 ***********
 #EXTINF:-1 tvg-logo= "http://www.cne-eg.com/UploadFolder/logos/498%5EbeIN-SportsNews.png", beIN Sports News
