@@ -1,5 +1,106 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="http://content.osn.com/logo/channel/cropped/CM1.png" group-title="Movies", cin1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63167_logo_music_now_tv.png" group-title="Music",Music Now
+http://livecdnh1.tvanywhere.ae/hls/music_now/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8_DS4IqQgXTeIJ3vCmUB0xYAM0ipJ5ZD6XB684-CV4jijCw1" group-title="Movies",Seven Star
+http://streaming.i-sat.tv:1935/livestream/seven/playlist.m3u8?nimblesessionid=
+#EXTINF:-1 tvg-logo="http://btv.ps/ar/wp-content/themes/newsbt/images/logo.png" group-title="Sport",Bet Lahem1
+http://htvint.mada.ps:8889//btv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://btv.ps/ar/wp-content/themes/newsbt/images/logo.png" group-title="Sport",Bet Lahem2
+http://htvmada.mada.ps:8888/btv/index.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://mada.ps/site_assets/images/logo-v.png" group-title="Sport",Watar TV1
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://mada.ps/site_assets/images/logo-v.png" group-title="Sport",Watar TV2
+http://htvint.mada.ps:8889//orient2/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJdE5QyTxdZ1HfSfyzy5Bzp1dzSVst39J8FbcO2IBEajdDG4G" group-title="Sport",Salam TV
+http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 1
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 2
+http://fajer.live/live/smil:live.smil/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 3
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web1/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 4
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 5
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 6
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 7
+http://vstream2.alfajertv.com:8081/AlfajertvHD2_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 8
+http://vstream2.hadara.ps:8081/AlfajertvHD1_web/web1/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 9
+http://vstream2.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 10
+http://vstream4.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 11
+http://vstream2.hadara.ps:8081/AlfajertvHDFull_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img1.androidappsapk.co/300/5/4/3/air.AlFajerTV.png" group-title="Sport",Alfajer 12
+http://217.21.0.213:8081/AlfajertvHD1_web/web/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://img.webme.com/pic/t/totv/ajyal.png" group-title="Sport",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.tamtammaghreb.com/kolalnastvlive.png?v=4pi8zc6j6pvkwwp" group-title="Sport",Kolalnas TV
+http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27589/logo_maannews.png" group-title="Sport",Maan TV
+http://vstream3.hadara.ps:8081/MaanHD_web/web/playlist.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/71/Hala_TV_Logo1.svg/1280px-Hala_TV_Logo1.svg.png" group-title="Sport",Hala TV
+http://wowza.panet.co.il:1935/live/smil:halaTV.smil/chunklist_w1150138554_b1428000_sleng.m3u8?sd=10&rebase=on
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/41-MBC1-HD.png" group-title="Drama",MBC1 HD
+http://livecdnh2.tvanywhere.ae/ss/mbc1.isml/Manifest
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/41-MBC1-HD.png" group-title="Drama",MBC1 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc1/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/42-MBC2-HD.png" group-title="Movies",MBC2 HD
+http://livecdnh3.tvanywhere.ae/ss/mbc2.isml/Manifest
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/42-MBC2-HD.png" group-title="Movies",MBC2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/43-MBC3-HD.png" group-title="Kids",MBC3 HD
+http://livecdnh2.tvanywhere.ae/ss/mbc3.isml/Manifest
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/43-MBC3-HD.png" group-title="Kids",MBC3 HD
+http://livecdnh2.tvanywhere.ae/hls/mbc3/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png" group-title="Kids",Majeed
+http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/44-MBC4-HD.png" group-title="Drama",MBC4 HD
+http://livecdnh3.tvanywhere.ae/ss/mbc4.isml/Manifest
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/44-MBC4-HD.png" group-title="Drama",MBC4 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc4/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/49-MBC-Action-HD.png" group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/ss/mbcaction.isml/Manifest
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/49-MBC-Action-HD.png" group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFr2gSbzdFFedo5zUCvfRxb7mmlmMoJkZ0_jFvAzlxG2Y265tS1A" group-title="Drama",MBC Drama HD
+http://livecdnh2.tvanywhere.ae/ss/mbc_drama.isml/Manifest
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFr2gSbzdFFedo5zUCvfRxb7mmlmMoJkZ0_jFvAzlxG2Y265tS1A" group-title="Drama",MBC Drama HD
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/48-MBC-Max-HD.png" group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/ss/mbcmax/Manifest
+#EXTINF:-1 tvg-logo="http://gobx.com/wp-content/uploads/2017/08/48-MBC-Max-HD.png" group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/4.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="Drama",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/ss/mbc_bolly.isml/Manifest
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/MBCBollywoodTV.png" group-title="Drama",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/4.m3u8?sd=10&rebase=on 
+#EXTINF:-1 tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="Drama",MBC +drama
+http://212.224.72.194:2200/TR/mbcplusdramahd-ar/index.m3u8?token=WbJL7LcL3rjxpDJa&sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://krmalk.tv/video/uploads/thumbs/85617e5b1-1.jpg" group-title="Drama",MBC  variety hd
+http://212.224.72.199:2200/TR/mbcvarietyhd-ar/tracks-v1a1/index.m3u8?token=WbJL7LcL3rjxpDJa&sd=10&rebase=on
+ 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo= "http://37.216.204.6:8080/BidiMWAdmin/resources/ChannelLogos/channellogo_5.png", SBC
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel6/index.m3u8
 
