@@ -1274,6 +1274,31 @@ http://digitalxpress.gcdn.co/live1/polsatsportpremium1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="ALL" tvg-logo="" group-title="WORLD SPORTS",polsatsportpremium2
 http://digitalxpress.gcdn.co/live1/polsatsportpremium2/index.m3u8
 
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports1.qa.png",beIN Sports 01 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports1.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports2.qa.png",beIN Sports 02 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports2.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports3.qa.png",beIN Sports 03 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports3.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports4.qa.png",beIN Sports 04 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports4.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports5.qa.png",beIN Sports 05 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports5.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports6.qa.png",beIN Sports 06 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports6.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beINSports7.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports7.qa.png",beIN Sports 07 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports7.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beINSports8.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports8.qa.png",beIN Sports 08 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports8.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beINSports9.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports9.qa.png",beIN Sports 09 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports9.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beINSports10.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports10.qa.png",beIN Sports 10 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports10.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="beINSports11.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports11.qa.png",beIN Sports 11 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports11.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports12.qa" tvg-name="beINSports12.qa" tvg-type="live" group-title="beIN 4K" tvg-logo="https://media.tv4.live/beINSports12.qa.png",beIN Sports 12 AR
+https://tv4.live/api/stream/walidtop1@inilogic.com/274088/livetv.epg/beINSports12.qa.m3u8
+
 #EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="BeIN Sports S2 1 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD1.png" group-title="BeIN Sports S2",BeIN Sports S2 1 FHD
 http://148.251.23.179:80/B1FHD/index.m3u8
 #EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="BeIN Sports S2 2 FHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/BeIN/Sport/HD2.png" group-title="BeIN Sports S2",BeIN Sports S2 2 FHD
@@ -1563,24 +1588,34 @@ http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ريال مدريد" tvg-logo="" group-title="وقت المباريات فقط♤",ريال مدريد
-https://conversant-me.cdn.booyah.live/hls/113137/29461206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 4k" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 4k
-https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 720p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 720p
-https://akamai2-mx.cdn.booyah.live/hls/250170/27775980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 480p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 480p
-https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 360p" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 360p
-https://akamai2-me.cdn.booyah.live/hls/113132/29465125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 3" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 3
-https://akamai2-me.cdn.booyah.live/hls/113130/27014630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 2" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 2
-https://akamai2-me.cdn.booyah.live/hls/113132/27150250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 4" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 4
-https://conversant-me.cdn.booyah.live/hls/113130/29242228.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ريال 5" tvg-logo="" group-title="وقت المباريات فقط♤",ريال 5
-https://verizon-me.cdn.booyah.live/hls/113137/29461206.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="بث ١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١
+http://akamai2-me.cdn.booyah.live/hls/113130/27150250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٢
+http://akamai2-me.cdn.booyah.live/hls/113138/29863136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
+http://akamai2-me.cdn.booyah.live/hls/113130/29855488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
+http://akamai2-me.cdn.booyah.live/hls/113130/27150250_480.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
+http://akamai2-mx.cdn.booyah.live/hls/250170/27775236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
+http://verizon-me.cdn.booyah.live/hls/113130/28747959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
+http://akamai2-me.cdn.booyah.live/hls/113138/28742448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
+https://s-33.streamtec.xyz/hls2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
+https://akamai2-me.cdn.booyah.live/hls/113130/27150250_360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٠" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٠
+https://akamai2-me.cdn.booyah.live/hls/113138/29072433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١١" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١١
+https://akamai2-me.cdn.booyah.live/hls/113138/29072433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٢" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٢
+https://akamai-me.cdn.booyah.live/hls/113137/29856156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١3" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١3
+https://akamai2-mx.cdn.booyah.live/hls/210154/27775980_720.m3u8
+
 
 #EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="beIN Sports 7 sd " tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/MBEINSPORT7.png" group-title="وقت المباريات فقط♤",beIN Sports 7 sd
 http://viralshoc.com/script1/ayoub.m3u8?hash=http://62.210.139.222:8081/yacinetv/BeinSD7/playlist.m3u8
