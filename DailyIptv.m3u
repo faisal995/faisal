@@ -649,35 +649,24 @@ http://sarhantv.myq-see.com:25461/sarhanapp/0000/89
 http://digitalxpress.gcdn.co/live1/OSNYAHALACINEMA/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/291
+#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesAction" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesAction
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/303
+#EXTINF:-1 tvg-id="" tvg-name="OSN_Enigma" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSN_Enigma
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/315
 #EXTINF:-1 tvg-id="" tvg-name="OSNMovies" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMovies
 https://streamer1.furrera.ps/OSNMovies/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst
-https://streamer1.furrera.ps/OSNMoviesFirst/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesFirst2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesFirst2
-https://streamer1.furrera.ps/OSNMoviesFirst2/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="OSNMoviesAction" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNMoviesAction
-https://streamer1.furrera.ps/OSNMoviesAction/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="OSN_Enigma" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSN_Enigma
-https://streamer1.furrera.ps/OSN_Enigma/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="OSNSeriesFirst" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNSeriesFirst
-https://streamer1.furrera.ps/OSNSeriesFirst/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
 #EXTINF:-1 tvg-id="" tvg-name="OSNSeriesCom" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNSeriesCom
-https://streamer1.furrera.ps/OSNSeriesCom/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/318
 #EXTINF:-1 tvg-id="" tvg-name="OSNYaHala" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYaHala
-https://streamer1.furrera.ps/OSNYaHala/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/339
 #EXTINF:-1 tvg-id="" tvg-name="OSNYahalaOula" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYahalaOula
-https://streamer1.furrera.ps/OSNYahalaOula/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/342
 #EXTINF:-1 tvg-id="" tvg-name="OSNYHCinema" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",OSNYHCinema
-https://streamer1.furrera.ps/OSNYHCinema/video.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="AlphaMusalsalat+2HD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaMusalsalat+2HD
-https://streamer1.furrera.ps/AlphaMusalsalat+2HD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="AlphaSeriesHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaSeriesHD
-https://streamer1.furrera.ps/AlphaSeriesHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="AlphaAlyawmHD" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaAlyawmHD
-https://streamer1.furrera.ps/AlphaAlyawmHD/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-#EXTINF:-1 tvg-id="" tvg-name="AlphaAlsafwa" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",AlphaAlsafwa
-https://streamer1.furrera.ps/AlphaAlsafwa/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
-
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/341
+#EXTINF:-1 tvg-id="" tvg-name="osn fan" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="OSN",osn fan
+http://iptv1145iptv9963spm15874xtrem.t9ni.com:8080/APPt2netHKFKSDL/DPZmdPlJHuUiIIIlhkfm/SHbdngfjhkdz266ghkhkiotklrmlfd/287
 
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN Ya Hala Cinma HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Ya Hala Cinma HD
@@ -701,7 +690,46 @@ http://digitalxpress.gcdn.co/live1/osnmoviesfirst/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: OSN Movies HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="OSN",AR: OSN Movies HD
 http://digitalxpress.gcdn.co/live1/osnmovies/index.m3u8
 
-#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Movies" tvg-logo="" group-title="MYHD",MyHD:Fox.Movies
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1505
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Movies.Action" tvg-logo="http://xtream.pro:8000/images/logo/channel/bein_Fox.Movie.png" group-title="MYHD",MyHD:Fox.Movies.Action
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1223
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Movie.Family" tvg-logo="" group-title="MYHD",MyHD:Fox.Movie.Family
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1140
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Crime" tvg-logo="" group-title="MYHD",MyHD:Fox.Crime
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4870
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox.Life" tvg-logo="" group-title="MYHD",MyHD:Fox.Life
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4869
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:FOX.Rewayat" tvg-logo="" group-title="MYHD",MyHD:FOX.Rewayat
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4868
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:FX" tvg-logo="" group-title="MYHD",MyHD:FX
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1423
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:MY.Cinema" tvg-logo="" group-title="MYHD",MyHD:MY.Cinema
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4865
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Star.Movie" tvg-logo="" group-title="MYHD",MyHD:Star.Movie
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Star.World" tvg-logo="" group-title="MYHD",MyHD:Star.World
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4862
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Film.Box" tvg-logo="" group-title="MYHD",MyHD:Film.Box
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4863
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Discovery" tvg-logo="" group-title="MYHD",MyHD:Discovery
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4875
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Discovery.SC" tvg-logo="" group-title="MYHD",MyHD:Discovery.SC
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4874
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Animal.Planet" tvg-logo="" group-title="MYHD",MyHD:Animal.Planet
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4878
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Douc.Box" tvg-logo="" group-title="MYHD",MyHD:Douc.Box
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4873
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fight.Box" tvg-logo="" group-title="MYHD",MyHD:Fight.Box
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4872
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Gulli.Arabic" tvg-logo="" group-title="MYHD",MyHD:Gulli.Arabic
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4867
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Outdoor" tvg-logo="" group-title="MYHD",MyHD:Outdoor
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4860
+#EXTINF:-1 tvg-ID="" tvg-name="MyHD:Fox" tvg-logo="" group-title="MYHD",MyHD:Fox
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4864
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 1" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 1
 https://streamer1.furrera.ps/FajerTV1/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJVc2VybmFtZVBhc3N3b3JkIiwic3ViIjoiMzk5MDMiLCJpYXQiOjE2MDQ5MzQ3NTAsImV4cCI6MTYwNTM2Njc1MH0.I1vNk6-g9FLtcBXPlzNYhV8kQoDRYER520jYYd3SgXM
 #EXTINF:-1 tvg-id="" tvg-name="Al Fajer TV 2" tvg-logo="http://163.172.48.123/logos/LogoEVDTV/MiddleEast/alfajertv.png" group-title="Al FajerTV",Al Fajer TV 2
@@ -1600,68 +1628,53 @@ http://tv4all.cyou:80/3030498113/0405515466/12529
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 01 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 01 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1450
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 02 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 02 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1451
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 03 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 03 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1452
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 04 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 04 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1453
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 05 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 05 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1454
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 06 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT 06 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1455
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  07 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  07 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1456
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  08 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  08 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1457
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  09 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  09 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1458
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT  10 FHD" tvg-logo="" group-title="Bein SPORTS FHD",[AR] BEIN SPORT  10 FHD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/1459
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports1.qa.png",beIN Sports 01 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports1.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beINSports2.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports2.qa.png",beIN Sports 02 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports2.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beINSports3.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports3.qa.png",beIN Sports 03 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports3.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beINSports4.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports4.qa.png",beIN Sports 04 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports4.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beINSports5.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports5.qa.png",beIN Sports 05 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports5.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beINSports6.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports6.qa.png",beIN Sports 06 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports6.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beINSports7.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports7.qa.png",beIN Sports 07 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports7.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="beINSports8.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports8.qa.png",beIN Sports 08 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports8.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="beINSports9.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports9.qa.png",beIN Sports 09 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports9.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="beINSports10.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports10.qa.png",beIN Sports 10 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports10.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports11.qa" tvg-name="beINSports11.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports11.qa.png",beIN Sports 11 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports11.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports12.qa" tvg-name="beINSports12.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports12.qa.png",beIN Sports 12 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports12.qa.m3u8
+#EXTINF:-1 tvg-id="beINSports13.qa" tvg-name="beINSports13.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports13.qa.png",beIN Sports 13 AR
+https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports13.qa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 01 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 01 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/575
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 02 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 02 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/576
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 03 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 03 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/577
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 04 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 04 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/578
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 05 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 05 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/579
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 06 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 06 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/580
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 07 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 07 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/581
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 08 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 08 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/582
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 09 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 09 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/583
-#EXTINF:-1 tvg-id="" tvg-name="[AR] BEIN SPORT 10 HD" tvg-logo="" group-title="Bein SPORTS HD",[AR] BEIN SPORT 10 HD
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/584
-
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 1" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 1
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6596
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 2" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 2
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6597
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 3" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 3
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6598
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 4" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 4
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6599
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 5" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 5
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6600
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 6" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 6
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6601
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 7" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 7
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6602
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 8" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 8
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6603
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 9" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 9
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6604
-#EXTINF:-1 tvg-id="" tvg-name="[AR]L  beIN SPORT SD 10" tvg-logo="" group-title="Bein SPORTS SD",[AR]L  beIN SPORT SD 10
-http://live.faucontv.com:8000/dombak4022/wTee5qBdIn/6605
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN1.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN1.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1341
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN2.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN2.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1343
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN3.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN3.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4703
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN4.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN4.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1385
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN5.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN5.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1384
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN6.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN6.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4702
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN7.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN7.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1387
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN8.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN8.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/1399
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN9.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN9.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3114
+#EXTINF:-1 tvg-ID="" tvg-name="beIN:beIN10.720p" tvg-logo="" group-title="beIN SPORTS HD",beIN:beIN10.720p
+http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/3113
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT LOW 1 BACKUP" tvg-logo="" group-title="beIN Sports low",BEIN SPORT LOW 1 BACKUP
