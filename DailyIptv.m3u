@@ -1403,6 +1403,47 @@ http://tv4all.cyou:80/3030498113/0405515466/12528
 http://tv4all.cyou:80/3030498113/0405515466/12529
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 1 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 1 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64724
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 1 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 1 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30105
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 2 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 2 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64725
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 2 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 2 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30106
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 3 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 3 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64726
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 3 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 3 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30107
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 4 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 4 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64727
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 4 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 4 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30108
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 5 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 5 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64728
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 5 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 5 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30109
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 6 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 6 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64729
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 6 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 6 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30110
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 7 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 7 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64730
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 7 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 7 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30111
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 8 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 8 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64731
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 8 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 8 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30112
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 9 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 9 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64732
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 9 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 9 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30113
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 10 (MOVIL)" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 10 (MOVIL)
+http://titanlivetv.com:8080/AdagioRestream/Restream/64733
+#EXTINF:-1 tvg-id="" tvg-name="SP: Arab: Bein Sports 10 HD" tvg-logo="" group-title="beIN SPORTS",SP: Arab: Bein Sports 10 HD
+http://titanlivetv.com:8080/AdagioRestream/Restream/30114
+
 
 #EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beINSports1.qa" tvg-type="live" group-title="beIN SPORTS FHD" tvg-logo="https://media.tv4.live/beINSports1.qa.png",beIN Sports 01 AR
 https://tv4.live/api/stream/walid38@tuta.io/187082/livetv.epg/beINSports1.qa.m3u8
