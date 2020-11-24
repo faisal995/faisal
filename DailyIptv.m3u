@@ -2533,13 +2533,13 @@ https://akamai2-in.cdn.booyah.live/hls/123167/32808780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٣" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٣
 https://akamai2-in.cdn.booyah.live/hls/123152/32812368.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٤
-https://akamai2-mx.cdn.booyah.live/hls/250176/32806322.m3u8
+https://akamai2-me.cdn.booyah.live/hls/113132/32495747.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٥
 https://akamai2-me.cdn.booyah.live/hls/113130/32752565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٦
-https://akamai2-me.cdn.booyah.live/hls/113130/32824878.m3u8
+https://live-ak.vimeocdn.com/exp=1606250987~acl=%2Fe9c3289d-c2b2-4556-a942-84fe0988f4c4%2F%2A~hmac=ee4c8664d521f8d860723dd5e0c1aa2f1b6000e31b2978f79b07ffee5c8fb5b9/e9c3289d-c2b2-4556-a942-84fe0988f4c4/chunklist_b3256000.m3u8?max_segments=10
 #EXTINF:-1 tvg-id="" tvg-name="بث ٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٧
-https://akamai2-br.cdn.booyah.live/hls/1000008/32211488.m3u8
+https://akamai2-mx.cdn.booyah.live/hls/250176/32806322.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٨
 https://akamai2-mx.cdn.booyah.live/hls/250170/32822614.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ٩
@@ -2554,6 +2554,16 @@ https://akamai2-me.cdn.booyah.live/hls/113134/24720842.m3u8
 https://akamai2-me.cdn.booyah.live/hls/113130/32824878.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="بث ١٤" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٤
 https://akamai2-me.cdn.booyah.live/hls/113130/32824878.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٥" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٥
+https://akamai2-me.cdn.booyah.live/hls/113137/32832306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٦" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٦
+https://centurylink.br.cdn.booyah.live/hls/197036/32213072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٧" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٧
+https://akamai2-br.cdn.booyah.live/hls/1000013/32211462.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٨" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٨
+https://centurylink.mx.cdn.booyah.live/hls/210154/32829822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="بث ١٩" tvg-logo="" group-title="وقت المباريات فقط♤",بث ١٩
+https://centurylink.mx.cdn.booyah.live/hls/210154/32829822.m3u8
 
 
 #EXTINF:-1 tvg-id="77997" tvg-name="USA Soccer01: England - Premier League - Fulham vs Everton ( RMC Sport 1 Feed ) @ 7:00am" tvg-logo="https://i.pinimg.com/originals/e7/d7/19/e7d7190f0b5b3abd4f6c17e2c7989ec3.jpg" group-title="SPORTS - SOCCER",USA Soccer01: England - Premier League - Fulham vs Everton ( RMC Sport 1 Feed ) @ 7:00am
