@@ -2624,4 +2624,440 @@ https://edge.taghtia.com/&ahsa-news.com/https://m26.cdn4kora.com/live/ch2/index.
 https://vsd94.mycdn.me/hls/715356572350.m3u8/sig/YTBaCBrKnR8/expires/1606419849158/srcIp/188.247.75.212/clientType/0/srcAg/CHROME_ANDROID/mid/1816461975230/video.m3u8?p
 
 
+#EXTINF:-1 tvg-ID="" tvg-name="----- BeinSports Arabe -----" tvg-logo="https://p.apk4fun.com/63/02/59/com.beinsports.andcontent-logo.jpg" group-title="BEINSPORT",----- BeinSports Arabe -----
+http://iptv.nonoip.com:7000/opra6484/6484332211/499
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinSport HD" tvg-logo="https://s1.lematin.ma/cdn/images/tv/ch/beinsports.png" group-title="BEINSPORT",|AR| BeinSport HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/1301
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport News" tvg-logo="https://www.liveonlinetv247.info/images/beinsportsnews.png" group-title="BEINSPORT",|AR| BeinSport News
+http://iptv.nonoip.com:7000/opra6484/6484332211/1302
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 1 HD" tvg-logo="https://1.bp.blogspot.com/-2LNaO-XgLmw/WKxQWbdPutI/AAAAAAAAAnQ/zDCaXOVsjVkGhY-ohls1mgGg5FObnxw-gCPcB/s200/1-HD.png" group-title="BEINSPORT",|AR| BeinSport 1 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/502
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 1 BACK-UP" tvg-logo="https://1.bp.blogspot.com/-2LNaO-XgLmw/WKxQWbdPutI/AAAAAAAAAnQ/zDCaXOVsjVkGhY-ohls1mgGg5FObnxw-gCPcB/s200/1-HD.png" group-title="BEINSPORT",|AR| BeinSport 1 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/1262
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 2 HD" tvg-logo="https://2.bp.blogspot.com/-ZWfNz4-vDsQ/WbUwEXJk3oI/AAAAAAAAAgY/Gl-MQyuio1oBIa7T619U0geTPvUBjt0awCLcBGAs/s200/bein%2Bsport%2B2.png" group-title="BEINSPORT",|AR| BeinSport 2 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/503
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 2 BACK-UP" tvg-logo="https://2.bp.blogspot.com/-ZWfNz4-vDsQ/WbUwEXJk3oI/AAAAAAAAAgY/Gl-MQyuio1oBIa7T619U0geTPvUBjt0awCLcBGAs/s200/bein%2Bsport%2B2.png" group-title="BEINSPORT",|AR| BeinSport 2 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/1261
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 3 HD" tvg-logo="https://4.bp.blogspot.com/-m3MC4X_g0wc/WKxQXfX1TNI/AAAAAAAAAnQ/P1JrKNb_Hd8Lc7WlzusiRVCheoN-j8EGgCPcB/s200/3-HD.png" group-title="BEINSPORT",|AR| BeinSport 3 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/504
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 3 BACK-UP" tvg-logo="" group-title="BEINSPORT",|AR| BeinSport 3 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/1260
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 4 HD" tvg-logo="https://3.bp.blogspot.com/-qLIfd9LmuNQ/WKxQXqA5R2I/AAAAAAAAAnQ/mPdQujXQDRoA1JXp_BvLkLAmkJ2u8eFGQCPcB/s200/4-HD.png" group-title="BEINSPORT",|AR| BeinSport 4 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/505
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 4 BACK-UP" tvg-logo="https://3.bp.blogspot.com/-qLIfd9LmuNQ/WKxQXqA5R2I/AAAAAAAAAnQ/mPdQujXQDRoA1JXp_BvLkLAmkJ2u8eFGQCPcB/s200/4-HD.png" group-title="BEINSPORT",|AR| BeinSport 4 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/1295
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 5 HD" tvg-logo="https://4.bp.blogspot.com/-lRMX4PB8_Gk/WKxQXtSNdNI/AAAAAAAAAnQ/9AfOdbKAyMkuNe4-KiKnqjJyXwvjPPaawCPcB/s200/5-HD.png" group-title="BEINSPORT",|AR| BeinSport 5 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/506
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 5 BACK-UP" tvg-logo="https://4.bp.blogspot.com/-lRMX4PB8_Gk/WKxQXtSNdNI/AAAAAAAAAnQ/9AfOdbKAyMkuNe4-KiKnqjJyXwvjPPaawCPcB/s200/5-HD.png" group-title="BEINSPORT",|AR| BeinSport 5 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/1296
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 6 HD" tvg-logo="https://3.bp.blogspot.com/-Jfw4SpkBnxk/WKxQX3vpuyI/AAAAAAAAAnQ/zgu3TN4CeoQnIAQayev36oLfAYxJkTQJgCPcB/s200/6-HD.png" group-title="BEINSPORT",|AR| BeinSport 6 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/507
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 6 BACK-UP" tvg-logo="https://3.bp.blogspot.com/-Jfw4SpkBnxk/WKxQX3vpuyI/AAAAAAAAAnQ/zgu3TN4CeoQnIAQayev36oLfAYxJkTQJgCPcB/s200/6-HD.png" group-title="BEINSPORT",|AR| BeinSport 6 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/1297
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 7 HD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="BEINSPORT",|AR| BeinSport 7 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/508
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 7 BACK-UP" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="BEINSPORT",|AR| BeinSport 7 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/41
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 8 HD" tvg-logo="https://2.bp.blogspot.com/-SLsJgh_RIYw/WKxQYFn-YCI/AAAAAAAAAnQ/S2JgJ_p0t4kjyOG3Tj9UYMsjOPP7yBPrwCPcB/s200/8-HD.png" group-title="BEINSPORT",|AR| BeinSport 8 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/509
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 8 BACK-UP" tvg-logo="https://2.bp.blogspot.com/-SLsJgh_RIYw/WKxQYFn-YCI/AAAAAAAAAnQ/S2JgJ_p0t4kjyOG3Tj9UYMsjOPP7yBPrwCPcB/s200/8-HD.png" group-title="BEINSPORT",|AR| BeinSport 8 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/42
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 9 HD" tvg-logo="https://4.bp.blogspot.com/-UdInxqNxU20/WKxQYRzk65I/AAAAAAAAAnQ/3rpoiyixt9c8H3IpbHCblztuvtJCq_oPwCPcB/s200/9-HD.png" group-title="BEINSPORT",|AR| BeinSport 9 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/510
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 9 BACK-UP" tvg-logo="https://4.bp.blogspot.com/-UdInxqNxU20/WKxQYRzk65I/AAAAAAAAAnQ/3rpoiyixt9c8H3IpbHCblztuvtJCq_oPwCPcB/s200/9-HD.png" group-title="BEINSPORT",|AR| BeinSport 9 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/43
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 10 HD" tvg-logo="https://1.bp.blogspot.com/-AOuqhPpo028/WKxQWV6CEfI/AAAAAAAAAnQ/xQjJkLyfAE0ghpNOT4_q76flxW_dtFHGQCPcB/s200/10-HD.png" group-title="BEINSPORT",|AR| BeinSport 10 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/511
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 10 BACK-UP" tvg-logo="https://1.bp.blogspot.com/-AOuqhPpo028/WKxQWV6CEfI/AAAAAAAAAnQ/xQjJkLyfAE0ghpNOT4_q76flxW_dtFHGQCPcB/s200/10-HD.png" group-title="BEINSPORT",|AR| BeinSport 10 BACK-UP
+http://iptv.nonoip.com:7000/opra6484/6484332211/44
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 11 HD" tvg-logo="https://2.bp.blogspot.com/-9ydfPuN3Mjw/WKxQWXTahiI/AAAAAAAAAnQ/NZVj4rRd7ZIEEyV9SrREWs1YtiX1ZQS8wCPcB/s200/11-HD.png" group-title="BEINSPORT",|AR| BeinSport 11 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/512
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 12 HD" tvg-logo="https://2.bp.blogspot.com/-JrUprd7Msy8/WKxQWqH1P2I/AAAAAAAAAnQ/hrP8sABGeBUQ1WRkVoVLPSEJ79sg3rFugCPcB/s200/12-HD.png" group-title="BEINSPORT",|AR| BeinSport 12 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/513
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinSport 13 HD" tvg-logo="https://3.bp.blogspot.com/-_As4S1v-TKs/WKxQWguYMkI/AAAAAAAAAnQ/wtk1b4mgdaUJyqVe52GojQLaxe8LrAE8QCPcB/s200/13-HD.png" group-title="BEINSPORT",|AR| BeinSport 13 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/47
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinSport 14 HD" tvg-logo="https://4.bp.blogspot.com/-znkxXcz2Xco/WKxQW4qCm0I/AAAAAAAAAnQ/PKHWUO49B9oVC4vtd7D8lWyHyhGeyEOswCPcB/s200/14-HD.png" group-title="BEINSPORT",|AR| BeinSport 14 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/48
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinSport 15 HD" tvg-logo="https://2.bp.blogspot.com/-pU13zIRWhkQ/WKxQXA5VjrI/AAAAAAAAAnQ/NWIRv8Xq_PMZGM1ELwl4pJAkjO4H9NBzQCPcB/s200/15-HD.png" group-title="BEINSPORT",|AR| BeinSport 15 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/49
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinSport 16 HD" tvg-logo="https://1.bp.blogspot.com/-22I7-i1RXOA/WKxQXBvUl1I/AAAAAAAAAnQ/wVaqoRff09cyY0xEUQJ9Xwn3-pH1AYRhQCPcB/s200/16-HD.png" group-title="BEINSPORT",|AR| BeinSport 16 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/50
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinMax 1 HD" tvg-logo="http://1.bp.blogspot.com/-RORdSJTPyig/VjEnoNLDRbI/AAAAAAAAARw/sK3Ed7nCcR4/s1600/Bein%2BSport%2BMax%2B-%2BCopie.png" group-title="BEINSPORT",|AR| BeinMax 1 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/29
+#EXTINF:-1 tvg-ID="" tvg-name="|AR| BeinMax 2 HD" tvg-logo="http://1.bp.blogspot.com/-RORdSJTPyig/VjEnoNLDRbI/AAAAAAAAARw/sK3Ed7nCcR4/s1600/Bein%2BSport%2BMax%2B-%2BCopie.png" group-title="BEINSPORT",|AR| BeinMax 2 HD
+http://iptv.nonoip.com:7000/opra6484/6484332211/30
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 1 SD" tvg-logo="https://1.bp.blogspot.com/-2LNaO-XgLmw/WKxQWbdPutI/AAAAAAAAAnQ/zDCaXOVsjVkGhY-ohls1mgGg5FObnxw-gCPcB/s200/1-HD.png" group-title="BEINSPORT",|AR| BeinSport 1 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2037
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 2 SD" tvg-logo="https://2.bp.blogspot.com/-ZWfNz4-vDsQ/WbUwEXJk3oI/AAAAAAAAAgY/Gl-MQyuio1oBIa7T619U0geTPvUBjt0awCLcBGAs/s200/bein%2Bsport%2B2.png" group-title="BEINSPORT",|AR| BeinSport 2 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2038
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 3 SD" tvg-logo="https://4.bp.blogspot.com/-m3MC4X_g0wc/WKxQXfX1TNI/AAAAAAAAAnQ/P1JrKNb_Hd8Lc7WlzusiRVCheoN-j8EGgCPcB/s200/3-HD.png" group-title="BEINSPORT",|AR| BeinSport 3 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2039
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 4 SD" tvg-logo="https://3.bp.blogspot.com/-qLIfd9LmuNQ/WKxQXqA5R2I/AAAAAAAAAnQ/mPdQujXQDRoA1JXp_BvLkLAmkJ2u8eFGQCPcB/s200/4-HD.png" group-title="BEINSPORT",|AR| BeinSport 4 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2040
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 5 SD" tvg-logo="https://4.bp.blogspot.com/-lRMX4PB8_Gk/WKxQXtSNdNI/AAAAAAAAAnQ/9AfOdbKAyMkuNe4-KiKnqjJyXwvjPPaawCPcB/s200/5-HD.png" group-title="BEINSPORT",|AR| BeinSport 5 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2041
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 6 SD" tvg-logo="https://3.bp.blogspot.com/-Jfw4SpkBnxk/WKxQX3vpuyI/AAAAAAAAAnQ/zgu3TN4CeoQnIAQayev36oLfAYxJkTQJgCPcB/s200/6-HD.png" group-title="BEINSPORT",|AR| BeinSport 6 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2042
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 7 SD" tvg-logo="https://1.bp.blogspot.com/-G3P1z7sgDpk/WKxQX_IF6RI/AAAAAAAAAnQ/Q0bPJx8h9yAzou7lJ7JP-S7ILhwMVo6OQCPcB/s200/7-HD.png" group-title="BEINSPORT",|AR| BeinSport 7 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2043
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 8 SD" tvg-logo="https://2.bp.blogspot.com/-SLsJgh_RIYw/WKxQYFn-YCI/AAAAAAAAAnQ/S2JgJ_p0t4kjyOG3Tj9UYMsjOPP7yBPrwCPcB/s200/8-HD.png" group-title="BEINSPORT",|AR| BeinSport 8 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2044
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 9 SD" tvg-logo="https://4.bp.blogspot.com/-UdInxqNxU20/WKxQYRzk65I/AAAAAAAAAnQ/3rpoiyixt9c8H3IpbHCblztuvtJCq_oPwCPcB/s200/9-HD.png" group-title="BEINSPORT",|AR| BeinSport 9 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2045
+#EXTINF:-1 tvg-ID="Telesur.es" tvg-name="|AR| BeinSport 10 SD" tvg-logo="https://1.bp.blogspot.com/-AOuqhPpo028/WKxQWV6CEfI/AAAAAAAAAnQ/xQjJkLyfAE0ghpNOT4_q76flxW_dtFHGQCPcB/s200/10-HD.png" group-title="BEINSPORT",|AR| BeinSport 10 SD
+http://iptv.nonoip.com:7000/opra6484/6484332211/2046
+#EXTINF:-1 tvg-ID="" tvg-name="====Entertainment====" tvg-logo="https://i1.wp.com/hbwkw.com/mall/image/cache/catalog/hbw/complete-500x500.png" group-title="BEINSPORT",====Entertainment====
+#EXTINF:-1,BEIN SPORTS 01 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21683
+#EXTINF:-1,BEIN SPORTS 02 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21684
+#EXTINF:-1,BEIN SPORTS 03 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21685
+#EXTINF:-1,BEIN SPORTS 04 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21686
+#EXTINF:-1,BEIN SPORTS 05 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21687
+#EXTINF:-1,BEIN SPORTS 06 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21688
+#EXTINF:-1,BEIN SPORTS 07 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21689
+#EXTINF:-1,BEIN SPORTS 08 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21690
+#EXTINF:-1,BEIN SPORTS 09 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21691
+#EXTINF:-1,BEIN SPORTS 10 4k
+http://hd.waldi2017.com:2082/110023041214988/81515121/21692
+#EXTINF:-1,BEIN SPORTS 11 4K
+http://hd.waldi2017.com:2082/110023041214988/81515121/10426
+#EXTINF:-1,BEIN SPORTS 12 4K
+http://hd.waldi2017.com:2082/110023041214988/81515121/10427
+#EXTINF:-1,Beinsport 01 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/8203
+#EXTINF:-1,Beinsport 02 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/8202
+#EXTINF:-1,Beinsport 03 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/8201
+#EXTINF:-1,Beinsport 04 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/8200
+#EXTINF:-1,Beinsport 05 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/8199
+#EXTINF:-1,Beinsport 06 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/17742
+#EXTINF:-1,Beinsport 07 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/17743
+#EXTINF:-1,Beinsport 08 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/17744
+#EXTINF:-1,Beinsport 09 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/17745
+#EXTINF:-1,Beinsport 10 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/17746
+#EXTINF:-1,Beinsport 11 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/26131
+#EXTINF:-1,Beinsport 12 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/26114
+#EXTINF:-1,Beinsport 13 FHD
+http://hd.waldi2017.com:2082/110023041214988/81515121/26109
+#EXTINF:-1,*******beINSPORTS-SD*******
+http://ch.wama-tv.net:8000/897984798/083863826/17907
+#EXTINF:-1,BN_Bein_SP_1SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/897
+#EXTINF:-1,BN_Bein_SP_1SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1938
+#EXTINF:-1,BN_Bein_SP_2SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/898
+#EXTINF:-1,BN_Bein_SP_2SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1939
+#EXTINF:-1,BN_Bein_SP_3SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/899
+#EXTINF:-1,BN_Bein_SP_3SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1940
+#EXTINF:-1,BN_Bein_SP_4SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/900
+#EXTINF:-1,BN_Bein_SP_4SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1941
+#EXTINF:-1,BN_Bein_SP_5SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/901
+#EXTINF:-1,BN_Bein_SP_5SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1942
+#EXTINF:-1,BN_Bein_SP_6SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/902
+#EXTINF:-1,BN_Bein_SP_6SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1943
+#EXTINF:-1,BN_Bein_SP_7SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/903
+#EXTINF:-1,BN_Bein_SP_7SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1944
+#EXTINF:-1,BN_Bein_SP_8SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/904
+#EXTINF:-1,BN_Bein_SP_8SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1945
+#EXTINF:-1,BN_Bein_SP_9SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/905
+#EXTINF:-1,BN_Bein_SP_9SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1946
+#EXTINF:-1,BN_Bein_SP_10SD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/906
+#EXTINF:-1,BN_Bein_SP_10SD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/1951
+#EXTINF:-1,*******beINSPORTS-HD*******
+http://ch.wama-tv.net:8000/897984798/083863826/17906
+#EXTINF:-1,BN_Bein_Sports_News
+http://ch.wama-tv.net:8000/897984798/083863826/857
+#EXTINF:-1,BN_Bein_Sports_HD
+http://ch.wama-tv.net:8000/897984798/083863826/4130
+#EXTINF:-1,BN_Bein_SP_1HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/176
+#EXTINF:-1,BN_Bein_SP_1HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/188
+#EXTINF:-1,BN_Bein_SP_2HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/177
+#EXTINF:-1,BN_Bein_SP_2HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/189
+#EXTINF:-1,BN_Bein_SP_3HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/178
+#EXTINF:-1,BN_Bein_SP_3HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/190
+#EXTINF:-1,BN_Bein_SP_4HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/179
+#EXTINF:-1,BN_Bein_SP_4HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/191
+#EXTINF:-1,BN_Bein_SP_5HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/180
+#EXTINF:-1,BN_Bein_SP_5HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/192
+#EXTINF:-1,BN_Bein_SP_6HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/181
+#EXTINF:-1,BN_Bein_SP_6HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/193
+#EXTINF:-1,BN_Bein_SP_7HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/182
+#EXTINF:-1,BN_Bein_SP_7HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/194
+#EXTINF:-1,BN_Bein_SP_8HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/183
+#EXTINF:-1,BN_Bein_SP_8HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/195
+#EXTINF:-1,BN_Bein_SP_9HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/184
+#EXTINF:-1,BN_Bein_SP_9HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/196
+#EXTINF:-1,BN_Bein_SP_10HD_S1
+http://ch.wama-tv.net:8000/897984798/083863826/185
+#EXTINF:-1,BN_Bein_SP_10HD_S2
+http://ch.wama-tv.net:8000/897984798/083863826/197
+#EXTINF:-1,BN_Bein_Sports_11HD
+http://ch.wama-tv.net:8000/897984798/083863826/4137
+#EXTINF:-1,BN_Bein_Sports_12HD
+http://ch.wama-tv.net:8000/897984798/083863826/4136
+#EXTINF:-1,BN_Bein_Sports_13HD
+http://ch.wama-tv.net:8000/897984798/083863826/4135
+#EXTINF:-1,BN_Bein_Sports_14HD
+http://ch.wama-tv.net:8000/897984798/083863826/4134
+#EXTINF:-1,BN_Bein_Sports_15HD
+http://ch.wama-tv.net:8000/897984798/083863826/4133
+#EXTINF:-1,BN_Bein_Sports_16HD
+http://ch.wama-tv.net:8000/897984798/083863826/4132
+#EXTINF:-1,BN_Bein_Sports_17HD
+http://ch.wama-tv.net:8000/897984798/083863826/4131
+#EXTINF:-1,BN_BeIN_SPORTS_NBA
+http://ch.wama-tv.net:8000/897984798/083863826/10035
+#EXTINF:-1,*******beINSPORTS-MAX*******
+http://ch.wama-tv.net:8000/897984798/083863826/17905
+#EXTINF:-1,*******beINSPORTS-H265*******
+http://ch.wama-tv.net:8000/897984798/083863826/17904
+#EXTINF:-1,BN_BeIN_SPORTS_1_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5443
+#EXTINF:-1,BN_BeIN_SPORTS_2_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5442
+#EXTINF:-1,BN_BeIN_SPORTS_3_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5441
+#EXTINF:-1,BN_BeIN_SPORTS_4_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5440
+#EXTINF:-1,BN_BeIN_SPORTS_5_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5439
+#EXTINF:-1,BN_BeIN_SPORTS_6_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5438
+#EXTINF:-1,BN_BeIN_SPORTS_7_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5437
+#EXTINF:-1,BN_BeIN_SPORTS_8_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5436
+#EXTINF:-1,BN_BeIN_SPORTS_9_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5435
+#EXTINF:-1,BN_BeIN_SPORTS_10_H265
+http://ch.wama-tv.net:8000/897984798/083863826/5434
+
+#EXTINF:-1,beIN Sports 1 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5482
+#EXTINF:-1,beIN Sports 1 HD VIP AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/678748
+#EXTINF:-1,beIN Sports 2 FHD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/682933
+#EXTINF:-1,beIN Sports 2 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5481
+#EXTINF:-1,beIN Sports 3 FHD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/682934
+#EXTINF:-1,beIN Sports 3 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5480
+#EXTINF:-1,beIN Sports 4 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5479
+#EXTINF:-1,beIN Sports 5 FHD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/682935
+#EXTINF:-1,beIN Sports 5 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5478
+#EXTINF:-1,beIN Sports 6 FHD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/54777
+#EXTINF:-1,beIN Sports 7 FHD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/683135
+#EXTINF:-1,beIN Sports 7 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5476
+#EXTINF:-1,beIN Sports 8 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/53432
+#EXTINF:-1,beIN Sports 9 FHD VIP AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/682936
+#EXTINF:-1,beIN Sports 9 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5474
+#EXTINF:-1,beIN Sports 10 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/5473
+#EXTINF:-1,beIN Sports 11 FHD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/683410
+#EXTINF:-1,beIN Sports 11 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/667466
+#EXTINF:-1,beIN Sports 12 HD AR
+http://mytv.fun:8080/2jggswx39m/4efa3o0s2t/54715
+#EXTINF:-1 tvg-id="bein.sports.news.ae" tvg-name="AR:  Bein Sports News FHD" tvg-logo="https://i.imgur.com/GS46myz.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports News FHD
+http://ztvuk.com:8080/nabeel/nabeel/12430
+#EXTINF:-1 tvg-id="bein.sports.news.ae" tvg-name="AR:  Bein Sports News HD" tvg-logo="https://i.imgur.com/GS46myz.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports News HD
+http://ztvuk.com:8080/nabeel/nabeel/31694
+#EXTINF:-1 tvg-id="hd1.english.bein" tvg-name="AR:  Bein Sports FHD 1" tvg-logo="https://i.imgur.com/eJ76uw9.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 1
+http://ztvuk.com:8080/nabeel/nabeel/12431
+#EXTINF:-1 tvg-id="hd1.english.bein" tvg-name="AR: Bein Sports HD 1" tvg-logo="https://i.imgur.com/eJ76uw9.png" group-title="FOOTBALL 3PM KICK OFF",AR: Bein Sports HD 1
+http://ztvuk.com:8080/nabeel/nabeel/89049
+#EXTINF:-1 tvg-id="hd2.arabic.bein" tvg-name="AR:  Bein Sports FHD 2" tvg-logo="https://i.imgur.com/B1SrCpU.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 2
+http://ztvuk.com:8080/nabeel/nabeel/12433
+#EXTINF:-1 tvg-id="hd2.english.bein" tvg-name="AR:  Bein Sports HD 2" tvg-logo="https://i.imgur.com/B1SrCpU.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 2
+http://ztvuk.com:8080/nabeel/nabeel/89344
+#EXTINF:-1 tvg-id="hd3.english.bein" tvg-name="AR:  Bein Sports FHD 3" tvg-logo="https://i.imgur.com/K63o41c.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 3
+http://ztvuk.com:8080/nabeel/nabeel/12435
+#EXTINF:-1 tvg-id="hd3.english.bein" tvg-name="AR:  Bein Sports HD 3" tvg-logo="https://i.imgur.com/K63o41c.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 3
+http://ztvuk.com:8080/nabeel/nabeel/89040
+#EXTINF:-1 tvg-id="hd4.arabic.bein" tvg-name="AR:  Bein Sports FHD 4" tvg-logo="https://i.imgur.com/G4o8G0I.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 4
+http://ztvuk.com:8080/nabeel/nabeel/12437
+#EXTINF:-1 tvg-id="hd1.english.bein" tvg-name="AR:  Bein Sports HD 4" tvg-logo="https://i.imgur.com/G4o8G0I.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 4
+http://ztvuk.com:8080/nabeel/nabeel/89035
+#EXTINF:-1 tvg-id="hd5.english.bein" tvg-name="AR:  Bein Sports FHD 5" tvg-logo="https://i.imgur.com/0fHeSL3.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 5
+http://ztvuk.com:8080/nabeel/nabeel/12439
+#EXTINF:-1 tvg-id="hd5.english.bein" tvg-name="AR:  Bein Sports HD 5" tvg-logo="https://i.imgur.com/0fHeSL3.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 5
+http://ztvuk.com:8080/nabeel/nabeel/89053
+#EXTINF:-1 tvg-id="hd6.english.bein" tvg-name="AR:  Bein Sports FHD 6" tvg-logo="https://i.imgur.com/ANByZej.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 6
+http://ztvuk.com:8080/nabeel/nabeel/12441
+#EXTINF:-1 tvg-id="hd6.english.bein" tvg-name="AR:  Bein Sports HD 6" tvg-logo="https://i.imgur.com/ANByZej.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 6
+http://ztvuk.com:8080/nabeel/nabeel/89051
+#EXTINF:-1 tvg-id="hd7.english.bein" tvg-name="AR:  Bein Sports FHD 7" tvg-logo="https://i.imgur.com/jAiHSqs.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 7
+http://ztvuk.com:8080/nabeel/nabeel/12443
+#EXTINF:-1 tvg-id="hd7.english.bein" tvg-name="AR:  Bein Sports HD 7" tvg-logo="https://i.imgur.com/jAiHSqs.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 7
+http://ztvuk.com:8080/nabeel/nabeel/89052
+#EXTINF:-1 tvg-id="hd8.english.bein" tvg-name="AR:  Bein Sports FHD 8" tvg-logo="https://i.imgur.com/bHZCHiX.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 8
+http://ztvuk.com:8080/nabeel/nabeel/12445
+#EXTINF:-1 tvg-id="hd8.english.bein" tvg-name="AR:  Bein Sports HD 8" tvg-logo="https://i.imgur.com/bHZCHiX.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 8
+http://ztvuk.com:8080/nabeel/nabeel/89050
+#EXTINF:-1 tvg-id="hd9.english.bein" tvg-name="AR:  Bein Sports FHD 9" tvg-logo="https://i.imgur.com/8Noq4Fj.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 9
+http://ztvuk.com:8080/nabeel/nabeel/12447
+#EXTINF:-1 tvg-id="hd9.english.bein" tvg-name="AR:  Bein Sports HD 9" tvg-logo="https://i.imgur.com/8Noq4Fj.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 9
+http://ztvuk.com:8080/nabeel/nabeel/89350
+#EXTINF:-1 tvg-id="sportsglobalhd.english.bein" tvg-name="AR:  Bein Sports FHD 10" tvg-logo="https://i.imgur.com/2HDrxAJ.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 10
+http://ztvuk.com:8080/nabeel/nabeel/12449
+#EXTINF:-1 tvg-id="sportsglobalhd.english.bein" tvg-name="AR:  Bein Sports HD 10" tvg-logo="https://i.imgur.com/2HDrxAJ.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 10
+http://ztvuk.com:8080/nabeel/nabeel/89041
+#EXTINF:-1 tvg-id="sportshd11.english.bein" tvg-name="AR:  Bein Sports FHD 11" tvg-logo="https://i.imgur.com/Rb8p8n7.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 11
+http://ztvuk.com:8080/nabeel/nabeel/12451
+#EXTINF:-1 tvg-id="sportshd11.english.bein" tvg-name="AR:  Bein Sports FHD 11" tvg-logo="https://i.imgur.com/Rb8p8n7.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports FHD 11
+http://ztvuk.com:8080/nabeel/nabeel/11954
+#EXTINF:-1 tvg-id="sportshd11.arabic.bein" tvg-name="AR:  Bein Sports HD 11" tvg-logo="https://i.imgur.com/Rb8p8n7.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 11
+http://ztvuk.com:8080/nabeel/nabeel/12452
+#EXTINF:-1 tvg-id="sportshd12.english.bein" tvg-name="AR:  Bein Sports HD 12" tvg-logo="https://i.imgur.com/b6urlFR.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 12
+http://ztvuk.com:8080/nabeel/nabeel/12453
+#EXTINF:-1 tvg-id="sportshd12.english.bein" tvg-name="AR:  Bein Sports HD 12." tvg-logo="https://i.imgur.com/b6urlFR.png" group-title="FOOTBALL 3PM KICK OFF",AR:  Bein Sports HD 12.
+http://ztvuk.com:8080/nabeel/nabeel/11982
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/f89e6a493f43c8eaa4dec4cab054a580.png" group-title="Arabic",AR: beIN Sports 1 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211285
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/17dc1eb7e7c1be2b20c3d3b184f6d30e.png" group-title="Arabic",AR: beIN Sports 2 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211286
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/e44c1ec620401a2f6238c2c24ccd6c58.png" group-title="Arabic",AR: beIN Sports 3 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211287
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/14ff9bf1b41ac4ce0f0ed21fc112afcd.png" group-title="Arabic",AR: beIN Sports 4 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211288
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/062335b206269a6a5c02559d8e4e426e.png" group-title="Arabic",AR: beIN Sports 5 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211289
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/54048002161a540135597a92d0e8dd1e.png" group-title="Arabic",AR: beIN Sports 6 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211290
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/5383b47924c567e4ff80e1ba3ea1fd4a.png" group-title="Arabic",AR: beIN Sports 7 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211291
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 8 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/a7ed150b839370633953b8bb3d2f2322.png" group-title="Arabic",AR: beIN Sports 8 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211292
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 9 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/887cfd409cbbb527a13b56e64c3e1b4c.png" group-title="Arabic",AR: beIN Sports 9 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211293
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 10 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/bb7043386333fdb21a0d4a2eb0880b12.png" group-title="Arabic",AR: beIN Sports 10 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211294
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 11 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/71b3886dfd8ef7458981d8944068b5ff.png" group-title="Arabic",AR: beIN Sports 11 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211295
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 12 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/0887cab963deb238e9bb83095897d5ae.png" group-title="Arabic",AR: beIN Sports 12 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211296
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 13 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",AR: beIN Sports 13 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211297
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 14 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/93cf8ae423e92a4ade6ddb15344bf1c9.png" group-title="Arabic",AR: beIN Sports 14 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211298
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 15 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",AR: beIN Sports 15 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211299
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/453c691cfb9b99b4edb2dc66fb3c02cc.png" group-title="Arabic",AR: beIN Sports HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211300
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",AR: beIN Sports Max 2
+http://4k.nicewinter.xyz:80/joel01/joel01/211301
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/10a6b604d8676fda7dcaf6f1733849f3.png" group-title="Arabic",AR: beIN Sports Max 10
+http://4k.nicewinter.xyz:80/joel01/joel01/211302
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports News HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/d63c52c264be612fb3cfb58e2b1f6090.png" group-title="Arabic",AR: beIN Sports News HD
+http://4k.nicewinter.xyz:80/joel01/joel01/211303
+#EXTINF:-1 tvg-id="" tvg-name="BeIN-AR | News HD" tvg-logo="" group-title="Global Sports",BeIN-AR | News HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192323
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="BeIN-AR | Sports 1 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 1 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192324
+#EXTINF:-1 tvg-id="beIN Sports 2 ARB" tvg-name="BeIN-AR | Sports 2 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 2 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192325
+#EXTINF:-1 tvg-id="beIN Sports 3 ARB" tvg-name="BeIN-AR | Sports 3 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 3 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192326
+#EXTINF:-1 tvg-id="beIN Sports 4 ARB" tvg-name="BeIN-AR | Sports 4 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 4 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192327
+#EXTINF:-1 tvg-id="beIN Sports 5 ARB" tvg-name="BeIN-AR | Sports 5 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 5 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192328
+#EXTINF:-1 tvg-id="beIN Sports 6 ARB" tvg-name="BeIN-AR | Sports 6 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 6 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192329
+#EXTINF:-1 tvg-id="beIN Sports 7 ARB" tvg-name="BeIN-AR | Sports 7 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 7 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192330
+#EXTINF:-1 tvg-id="beIN Sports 8 ARB" tvg-name="BeIN-AR | Sports 8 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 8 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192331
+#EXTINF:-1 tvg-id="beIN Sports 9 ARB" tvg-name="BeIN-AR | Sports 9 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 9 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192332
+#EXTINF:-1 tvg-id="beIN Sports 10 ARB" tvg-name="BeIN-AR | Sports 10 HD" tvg-logo="" group-title="Global Sports",BeIN-AR | Sports 10 HD
+http://4k.nicewinter.xyz:80/joel01/joel01/192333
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 1 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192334
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 2 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192335
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 3 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192336
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 4 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192337
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 5 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192338
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 6 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192339
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 7 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192340
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 8 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192341
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 9 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 9 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192342
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 10 ⁴ᵏ" tvg-logo="" group-title="Global Sports",BEIN SPORTS 10 ⁴ᵏ
+http://4k.nicewinter.xyz:80/joel01/joel01/192343
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="BeIN-FR | Sports 1" tvg-logo="" group-title="Global Sports",BeIN-FR | Sports 1
+http://4k.nicewinter.xyz:80/joel01/joel01/192344
 
